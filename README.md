@@ -1,6 +1,6 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Sparsh Saxena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt ="codinggif" width="400" src= "https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-r2t6.onrender.com](https://personal-portfolio-r2t6.onrender.com)
